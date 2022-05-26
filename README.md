@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 
 Cokkies 
 
-datr=1xSPYld-f6R6y8lsMNVXRglf;c_user=100051787086085;fr=0HSjc64Nd9Ioju00s.AWUSuFm38buRPBX9F1mf6m-f3KM.BijxTX.3Z.AAA.0.0.BijxTX.AWVKP9JOdKk;xs=25%3AP1xHnWf8jSmePw%3A2%3A1653544152%3A-1%3A11140
+datr=YJ6PYqRv76LAqXoJSXD3c24k; sb=YJ6PYmJ5skiJ-XdvPbzctfFl; m_pixel_ratio=2; locale=id_ID; c_user=100081754537472; xs=37%3A7I27-d40iYUx4A%3A2%3A1653586811%3A-1%3A-1; fr=0DbOa9FsYv7a9ZiHI.AWUYeBEpd9rtrMEcT0rTM9PuKw4.Bij55g.Sh.AAA.0.0.Bij7u5.AWWyVkP26mE; x-referer=eyJyIjoiL2hvbWUucGhwP3JlZj1kYmwiLCJoIjoiL2hvbWUucGhwP3JlZj1kYmwiLCJzIjoibSJ9; wd=360x616
